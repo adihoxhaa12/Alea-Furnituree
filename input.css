@@ -1,0 +1,20 @@
+#aaadi{
+    height: 869px;
+    width: 707px;
+  }
+  #kryeinput{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+  }
+  button{
+    height: 40px;
+  width: 142px;
+  margin-top: 50px;
+  color: beige;
+  background-color: black;
+  }
+.andi{
+    border: 3px solid white;
+    padding: 5px;
+}
